@@ -1,0 +1,7 @@
+{
+    "discord_token": "",
+    "giveaway_webhook":  "",
+    "giveaway_bot_id": [],
+    "giveaway_trigger": ["", ""],
+    "reaction_cooldown": 60
+}
